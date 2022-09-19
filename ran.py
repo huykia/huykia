@@ -1,7 +1,7 @@
 import pygame
 import time
 import random
- 
+heroku create myapp --buildpack heroku/python 
 pygame.init()
  
 white = (255, 255, 255)
